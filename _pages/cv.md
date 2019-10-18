@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S.  Sun Yat-Sen University, 2012 - 2016
-* M.S.  King's College London, 2016 - 2017
-* Ph.D  City University of Hong Kong, 2018 - present
+* B.S.  Mechanical Engineering, Sun Yat-Sen University, 2012 - 2016
+* M.S.  Robotics, King's College London, 2016 - 2017
+* Ph.D  Computer Science, City University of Hong Kong, 2018 - present
 
 Internship
 ======
