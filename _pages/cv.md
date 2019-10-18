@@ -44,12 +44,12 @@ Skills
 * Tools: familiar with __Pytorch__, Matlab, ROS, have experience with Tensorflow, Keras
 With __strong interest__ in computer graphics and deep learning, also equipped with __competent mathematical modeling and data analysis ability__
 
-Teaching
+Teaching Assistance
 ======
 * 2018 Fall Advanced Web Development
 * 2019 Fall Database System
 
-Service and leadership
+Service
 ======
 Reviewer for IEEE Transactions on Image Processing, Structural Engineering and Mechanics
 
