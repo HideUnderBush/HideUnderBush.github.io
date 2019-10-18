@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "BB-BC optimization algorithm for structural damage detection using measured acceleration responses"
 collection: publications
 permalink: /publication/bbbc
 excerpt: 'This paper apply the improved BB-BC algorithm to structural damage detection'
