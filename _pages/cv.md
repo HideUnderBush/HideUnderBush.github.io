@@ -31,7 +31,7 @@ Internship
   
 Publications
 ======
-* __Jialu Huang__, Jing Liao, Tak Wu Sam Kwong, Semantic Example Guided Image-to-Image Translation, https://arxiv.org/abs/1909.13028 (submitted to IEEE Transactions on Multimedia
+* __Jialu Huang__, Jing Liao, Tak Wu Sam Kwong, [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/abs/1909.13028) (submitted to IEEE Transactions on Multimedia
 * __Huang, J.L.__, Lu, Z.R. BB-BC optimization algorithm for structural damage detection using measured acceleration responses (2017) Structural Engineering and Mechanics, 64 (3), pp. 353-360.
 * Ding, Z.H., Yao, R.Z., __Huang, J.L.__, Huang, M., Lu, Z.R. Structural damage detection based on residual force vector and imperialist competitive algorithm (2017) Structural Engineering and Mechanics, 62 (6), pp. 709-717.
 * Wei, Z., __Huang, J.__, Lu, Z., Wu, W. Structural damage detection using disturbed particle swarm optimization (2017) 24th International Congress on Sound and Vibration, ICSV 2017,   
