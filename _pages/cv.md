@@ -23,7 +23,7 @@ Internship
 
 * 2017-2018: Algorithm Engineer 
   * [ASML-Brion](https://www.asml.com/en), China
-  * Duties included: design and optimize computational geometry related algorithms; Develop auxiliary toolsets for data visualization, pattern recognition and algorithm verification 
+  * Duties included: Design and optimize computational geometry related algorithms; Develop auxiliary toolsets for data visualization, pattern recognition and algorithm verification 
 
 * Summer 2016: Algorithm Engineer
   * [Ehang UAV](http://www.ehang.com/ehang184/index), China
