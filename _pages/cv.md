@@ -41,7 +41,7 @@ Skills
 * Language: C++, Python, JavaScript, HTML
 * OS: a big fan of Linux, also a Mac OS user
 * Tools: familiar with Pytorch, Matlab, ROS, have experience with Tensorflow, Keras
-* Others: With strong interest in computer graphics and deep learning, also equipped with competent mathematical modeling and data analysis ability
+With strong interest in computer graphics and deep learning, also equipped with competent mathematical modeling and data analysis ability
 
 Teaching
 ======
@@ -53,5 +53,5 @@ Reviewer for IEEE Transactions on Image Processing, Structural Engineering and M
 
 Others
 ======
-an ACG guy! Currently I start to write Tech blogs, new posts will can be found [here](https://hideunderbush.github.io/year-archive/)
+An ACG guy! Currently I start to write Tech blogs, new posts can be found [here](https://hideunderbush.github.io/year-archive/)
 
