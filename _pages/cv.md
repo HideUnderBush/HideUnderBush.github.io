@@ -17,41 +17,42 @@ Education
 
 Internship
 ======
-* Summer 2019: Algorithm Engineer 
-  * [ASML-Brion](https://www.asml.com/en), San Jose, U.S.A 
-  * Duties included: Design and implement lithographic related image processing algorithms, improving multi-optima detection algorithms 
+* Summer 2019: Algorithm Engineer
+  * [ASML-Brion](https://www.asml.com/en), San Jose, U.S.A
+  * Duties included: Design and implement lithographic related image processing algorithms; Design and implement a novel clustering method based on GAN, to increase the compression rate in lithographic manufacture check.
 
-* 2017-2018: Algorithm Engineer 
+* 2017-2018: Algorithm Engineer
   * [ASML-Brion](https://www.asml.com/en), China
-  * Duties included: Design and optimize computational geometry related algorithms; Develop auxiliary toolsets for data visualization, pattern recognition and algorithm verification 
+  * Duties included: Design and optimize computational geometry related algorithms; Develop auxiliary toolsets for data visualization, pattern recognition and algorithm verification
 
 * Summer 2016: Algorithm Engineer
   * [Ehang UAV](http://www.ehang.com/ehang184/index), China
   * Duties included: Control system related research work
-  
+
 Publications
 ======
-* __Jialu Huang__, Jing Liao, Tak Wu Sam Kwong, [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/abs/1909.13028) (submitted to IEEE Transactions on Multimedia
+* __Jialu Huang__, Jing Liao, Tak Wu Sam Kwong, Semantic Example Guided Image-to-Image Translation(submitted to IEEE Transactions on Multimedia)
+[paper](https://arxiv.org/abs/1909.13028) | [project page](https://github.com/HideUnderBush/SEGIN)
 * __Huang, J.L.__, Lu, Z.R. BB-BC optimization algorithm for structural damage detection using measured acceleration responses (2017) Structural Engineering and Mechanics, 64 (3), pp. 353-360.
 * Ding, Z.H., Yao, R.Z., __Huang, J.L.__, Huang, M., Lu, Z.R. Structural damage detection based on residual force vector and imperialist competitive algorithm (2017) Structural Engineering and Mechanics, 62 (6), pp. 709-717.
 * Wei, Z., __Huang, J.__, Lu, Z., Wu, W. Structural damage detection using disturbed particle swarm optimization (2017) 24th International Congress on Sound and Vibration, ICSV 2017,   
 
 Skills
 ======
-* Language: C++, Python, JavaScript, HTML
-* OS: a big fan of Linux, also a Mac OS user
-* Tools: familiar with Pytorch, Matlab, ROS, have experience with Tensorflow, Keras
-With strong interest in computer graphics and deep learning, also equipped with competent mathematical modeling and data analysis ability
+* Language: __C++__, __Python__, JavaScript, HTML
+* OS: a big fan of __Linux__, also a Mac OS user
+* Tools: familiar with __Pytorch__, Matlab, ROS, have experience with Tensorflow, Keras
+With __strong interest__ in computer graphics and deep learning, also equipped with __competent mathematical modeling and data analysis ability__
 
 Teaching
 ======
-Advanced Web Development, Database System
-  
+* 2018 Fall Advanced Web Development 
+* 2019 Fall Database System
+
 Service and leadership
 ======
 Reviewer for IEEE Transactions on Image Processing, Structural Engineering and Mechanics
 
-Others
+More about me
 ======
-An ACG guy! Currently I start to write Tech blogs, new posts can be found [here](https://hideunderbush.github.io/year-archive/)
-
+I am an ACG guy and the Leagues of Legend is my favourite game!  Currently I try to write Tech blogs, new posts can be found [here](https://hideunderbush.github.io/year-archive/)
