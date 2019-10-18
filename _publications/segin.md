@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/segin
 excerpt: 'This paper is a self-supervised method to achieve semantic example guided image-to-image translation.'
 date: 2019-09-28
-#venue: ''
+venue: '(submitted)'
 paperurl: 'https://arxiv.org/abs/1909.13028'
 #citation: ''
 ---
