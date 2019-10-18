@@ -1,7 +1,7 @@
 ---
 title: 'Basic ideas about Tensor'
 date: 2019-08-14
-permalink: /posts/pytorch101/tensor_basic
+permalink: /posts/2019/08/tensor_basic
 tags:
   - Basic Implementation
   - Pytorch
