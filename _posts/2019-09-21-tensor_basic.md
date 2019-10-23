@@ -1,5 +1,5 @@
 ---
-title: 'Basic ideas about Tensor'
+title: 'Pytorch101: Basic ideas about Tensor'
 date: 2019-09-21
 permalink: /posts/2019/09/tensor_basic/
 tags:

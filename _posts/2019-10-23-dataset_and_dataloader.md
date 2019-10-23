@@ -1,3 +1,13 @@
+---
+title: 'Pytorch101: Dataset and Dataloader'
+date: 2019-09-21
+permalink: /posts/2019/10/dataset_and_dataloader/
+tags:
+  - Basic Implementation
+  - Pytorch
+  - Deep Learning
+---
+
 # Pytorch101: Dataset and Dataloader
 It was quite confusing for me to use the ``DataLoader`` when I built my first Pytorch project, maybe just like some of you guys, I copied and pasted the code from the official tutorial and found that image data are loaded successfully with correctly allocated batches. However, it did take me longer time to understand the inner mechanism of the ``Dataset`` and ``DataLoader`` classes.
 
@@ -132,4 +142,4 @@ for i, data in enumerate(train_loader):
   # backward()
   ...
 ```  
-This is a simple example of how to load data (images and labels). Note that, we assumes the data with the same type are stored in the same folder. A more complex example that allows user to load auxiliary data stored in .csv file can be found in [official tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html). And related codes of this RMB classification can be found [here](https://github.com/HideUnderBush/pytorch_note/tree/master/dataloader_and_dataset/code) 
+This is a simple example of how to load data (images and labels). Note that, we assumes the data with the same type are stored in the same folder. A more complex example that allows user to load auxiliary data stored in .csv file can be found in [official tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html). And related codes of this RMB classification can be found [here](https://github.com/HideUnderBush/pytorch_note/tree/master/dataloader_and_dataset/code)
