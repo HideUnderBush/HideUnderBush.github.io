@@ -1,6 +1,6 @@
 ---
 title: 'Pytorch101: Dataset and Dataloader'
-date: 2019-09-21
+date: 2019-10-23
 permalink: /posts/2019/10/dataset_and_dataloader/
 tags:
   - Basic Implementation
