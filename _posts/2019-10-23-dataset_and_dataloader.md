@@ -66,7 +66,7 @@ class Dataset(object):
     # in pytorch/torch/utils/data/sampler.py
 ```
 As mentioned before, we need to override this class to build our own "Dataset" class. Before that, we need to write a function to "collect" data from disk:
-```Python
+```python
 rmb_label = {"1":0, "100":1}
 class RMBDataset(Dataset):
     def __init__(self, data_dir, transform=None):
