@@ -3,7 +3,7 @@ title: "Semantic Example Guided Image-to-Image Translation"
 collection: publications
 permalink: /publication/segin
 excerpt: 'This paper is a self-supervised method to achieve semantic example guided image-to-image translation.'
-date: 2019-09-28
+date: 2020-06-15
 venue: 'IEEE Transactions on Multimedia'
 paperurl: 'https://arxiv.org/abs/1909.13028'
 #citation: ''
