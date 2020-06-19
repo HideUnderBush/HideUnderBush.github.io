@@ -5,7 +5,7 @@ permalink: /publication/mdsit
 excerpt: 'We propose a multi-density sketch-to-image translation network (MDSIT), which can support input sketches at different density levels'
 date: 2020-06-19
 venue: (submitted)
-paperurl: 'coming soon'
+paperurl: https://arxiv.org/abs/2006.10649
 #citation: ''
 ---
 __Abstract__
