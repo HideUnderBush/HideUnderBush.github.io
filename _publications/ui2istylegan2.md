@@ -1,5 +1,5 @@
 ---
-title: "unsupervised image-to-image translation via pre-trained StyleGAN2 network"
+title: "Unsupervised image-to-image translation via pre-trained StyleGAN2 network"
 collection: publications
 permalink: /publication/ui2istylegan2
 excerpt: 'We proposed an unsupervised image-to-image translation method via pre-trained StyleGAN2 network (UI2IviaStyleGAN2)'

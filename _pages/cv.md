@@ -31,6 +31,8 @@ Internship
 
 Publications
 ======
+* __Jialu Huang__, Liao, J. & Kwong, S., (In progress, code will be ready soon).
+[paper](https://arxiv.org/abs/2010.05713)
 * __Jialu Huang__, Liao, J. & Kwong, S., (submitted) To : IEEE Transactions on Multimedia.
 [paper](https://arxiv.org/abs/2006.10649)
 * __Jialu Huang__, Liao, J. & Kwong, S., 11 Jun 2020, (Accepted/In press/Filed) In : IEEE Transactions on Multimedia.
