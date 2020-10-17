@@ -31,12 +31,9 @@ Internship
 
 Publications
 ======
-* __Jialu Huang__, Liao, J. & Kwong, S., (In progress, code will be ready soon).
-[paper](https://arxiv.org/abs/2010.05713)
-* __Jialu Huang__, Liao, J. & Kwong, S., (submitted) To : IEEE Transactions on Multimedia.
-[paper](https://arxiv.org/abs/2006.10649)
-* __Jialu Huang__, Liao, J. & Kwong, S., 11 Jun 2020, (Accepted/In press/Filed) In : IEEE Transactions on Multimedia.
-[paper](https://arxiv.org/abs/1909.13028) 
+* __Jialu Huang__, Liao, J. & Kwong, S., [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/abs/2010.05713) (In progress, code will be ready soon).
+* __Jialu Huang__, Liao, J. & Kwong, S., [Multi-Density Sketch-to-Image Translation Network](https://arxiv.org/abs/2006.10649)(submitted) To : IEEE Transactions on Multimedia. 
+* __Jialu Huang__, Liao, J. & Kwong, S., [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/abs/1909.13028) 11 Jun 2020, (Accepted/In press/Filed) In : IEEE Transactions on Multimedia.
 * __Huang, J.L.__, Lu, Z.R. BB-BC optimization algorithm for structural damage detection using measured acceleration responses (2017) Structural Engineering and Mechanics, 64 (3), pp. 353-360.
 * Ding, Z.H., Yao, R.Z., __Huang, J.L.__, Huang, M., Lu, Z.R. Structural damage detection based on residual force vector and imperialist competitive algorithm (2017) Structural Engineering and Mechanics, 62 (6), pp. 709-717.
 * Wei, Z., __Huang, J.__, Lu, Z., Wu, W. Structural damage detection using disturbed particle swarm optimization (2017) 24th International Congress on Sound and Vibration, ICSV 2017,   
