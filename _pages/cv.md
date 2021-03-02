@@ -31,7 +31,7 @@ Internship
 
 Publications
 ======
-* __Jialu Huang__, Liao, J. & Kwong, S., [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/abs/2010.05713) (In progress, code can be found at [Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)).
+* __Jialu Huang__, Liao, J. & Kwong, S., [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/abs/2010.05713) 02 Mar. 2021, (Accepted/In press/Filed) In : IEEE Transactions on Multimedia. (code can be found at [Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)).
 * __Jialu Huang__, Liao, J. & Kwong, S., [Multi-Density Sketch-to-Image Translation Network](https://arxiv.org/abs/2006.10649) (submitted) To : IEEE Transactions on Multimedia. 
 * __Jialu Huang__, Liao, J. & Kwong, S., [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/abs/1909.13028) 11 Jun 2020, (Accepted/In press/Filed) In : IEEE Transactions on Multimedia.
 * __Huang, J.L.__, Lu, Z.R. BB-BC optimization algorithm for structural damage detection using measured acceleration responses (2017) Structural Engineering and Mechanics, 64 (3), pp. 353-360.
