@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ui2istylegan2
 excerpt: 'We proposed an unsupervised image-to-image translation method via pre-trained StyleGAN2 network (UI2IviaStyleGAN2)'
 date: 2020-10-17
-venue: (In progress)
+venue: (Accepted)
 paperurl: https://arxiv.org/abs/2010.05713
 #citation: ''
 ---
